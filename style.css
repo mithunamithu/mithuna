@@ -1,0 +1,91 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(mg.jpg);
+    background-repeat: no-repeat;
+    background-color: #030303;
+
+  }
+  
+  .topnav {
+    overflow: hidden;
+    background-color: #333;
+  }
+  .mt1{
+    position: relative;
+    left: 850px;
+    top: 02px;
+    bottom: 100px ;
+  }
+  .my{
+    position: relative;
+    bottom: 100px;
+  }
+
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #033f5a;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #1c0361;
+    color: white;
+  }
+  .textbar{
+    text-align:right;
+    padding-right: 200px;
+    padding-bottom: 300px;
+    padding-top: 200px;
+  }
+  h1{
+    position: relative;
+    left: 50px;
+    top: 10px;
+    color: #f2f2f2;
+    
+
+  }
+  h3{
+    color: #f2f2f2;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family:  "Sofia", sans-serif;
+    
+  }
+  h4{
+    position: relative;
+    left:90px;
+    top: 10px;
+    color: #f2f2f2;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family:  "Sofia", sans-serif;
+    
+  }
+  .bt1{
+    text-align:center;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    position: relative;
+    left: 1050px;
+    bottom: 270px;
+    background-color: #f2f2f2;
+    border-radius: 15%;
+    box-shadow: #333;
+
+  }
+  .bt1:hover{
+    background-color: #1c0361;
+    color: #f2f2f2;
+
+  }
